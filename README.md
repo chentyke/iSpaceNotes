@@ -1,15 +1,15 @@
 # iSpaceNotes
 
-欢迎来到 `iSpaceNotes` 的 GitHub 仓库！这是一个旨在帮助商科学生更高效地管理学习资料和笔记的工具。
+Welcome to the GitHub repository of `iSpaceNotes`! This is a tool designed to help business students manage learning materials and notes more efficiently.
 
-## 关于项目
+## About the project
 
-`iSpaceNotes` 是我在学习过程中为了更好地组织和回顾商科课程内容而开发的一个小项目。虽然它只是一个没有实际功能的UI界面，但希望你喜欢它。
+`iSpaceNotes` is a small project I developed in order to better organize and review the content of the business course during my learning process. Although it is just a UI interface without actual functions, I hope you like it.
 
-## 开发者的话
+## Developer's words
 
-非常感谢你对 `iSpaceNotes` 的关注和支持！作为一个刚开始编程不久的学生开发者，我深知在这个项目中还有很多需要改进和完善的地方
+Thank you very much for your attention and support to `iSpaceNotes`! As a student developer who has just started programming, I know that there are still many things that need to be improved and perfected in this project.
 
-## 许可证
+## License
 
-`iSpaceNotes` 使用 MIT 许可协议。详情请参阅 [LICENSE](LICENSE) 文件。
+`iSpaceNotes` uses the MIT license agreement. FOR DETAILS, PLEASE REFER TO THE [LICENSE] (LICENSE) FILE.
